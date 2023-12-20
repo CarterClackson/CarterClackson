@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CarterClackson
-- 👀 I’m interested in improving my skills in Full Stack Development
-- 🌱 I’m currently learning Vue
+- 👋 Hi, I’m @CarterClackson, a fullstack developer from Manitoba, Canada.
+- 👀 I'm currently employed as a Senior UX Developer @ MPI but always open to new opportunities.
+- 🌱 I’m actively working on building a portfolio of work in the MERN stack to showcase my skills.
 - 💞️ I’m looking to collaborate on anything and everything
 
 <!---
